@@ -1,0 +1,15 @@
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\bin\Debug\net8.0\MED_Algorithm.exe
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\bin\Debug\net8.0\MED_Algorithm.deps.json
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\bin\Debug\net8.0\MED_Algorithm.runtimeconfig.json
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\bin\Debug\net8.0\MED_Algorithm.dll
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\bin\Debug\net8.0\MED_Algorithm.pdb
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\MED_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\MED_Algorithm.AssemblyInfoInputs.cache
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\MED_Algorithm.AssemblyInfo.cs
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\MED_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\MED_Algorithm.dll
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\refint\MED_Algorithm.dll
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\MED_Algorithm.pdb
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\MED_Algorithm.genruntimeconfig.cache
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\obj\Debug\net8.0\ref\MED_Algorithm.dll
+C:\Users\tolga\Desktop\MED_Algorithm\MED_Algorithm\MED_Algorithm\bin\Debug\net8.0\vocabulary_tr.txt
